@@ -1,0 +1,35 @@
+/* src/ThankYou.css */
+.thank-you-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #121212;
+  }
+  
+  .thank-you-card {
+    background-color: #1e1e1e;
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .thank-you-header img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .thank-you-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .thank-you-card p {
+    font-size: 0.9em;
+    margin-bottom: 20px;
+    color: #a3a3a3;
+  }
+  
