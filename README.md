@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 1-git clone https://github.com/Ranimmmmm/Interactive-rating-component.git
 
-2-cd Interactive-rating-component //Navigate to the project directory:
+2-cd Interactive-rating-component //Navigate to the project directory
 
 3-npm install /in terminal to install the dependencies
 
